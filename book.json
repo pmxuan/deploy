@@ -1,8 +1,8 @@
 {
     "root": "./",
-    "title": "通过 GitBook 开源框架私有化部署 Wiki 文档",
-    "head_title": "_通过 GitBook 开源框架私有化部署 Wiki 文档_字条网",
-    "head_description": "通过 GitBook 开源框架私有化部署 Wiki 文档，实现多人协作、版本控制、Markdown 写作、代码高亮、实时更新、一键部署。",
+    "title": "通过 GitBook 开源框架和 GitHub 私有化部署 Wiki 文档",
+    "head_title": "_通过 GitBook 开源框架和 GitHub 私有化部署 Wiki 文档_字条网",
+    "head_description": "通过 GitBook 开源框架和 GitHub 私有化部署 Wiki 文档，实现多人协作、版本控制、Markdown 写作、代码高亮、实时更新、一键部署。",
     "head_keywords": "wiki,文档部署",
     "logo": "./images/logo.png",
 
