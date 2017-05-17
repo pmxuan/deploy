@@ -62,8 +62,7 @@ info: >> plugin "sitemap-general" installed with success
 ```
 gitbook build
 ```
-
-》编译文件，编译后生成的静态文件会放置在 `_book` 目录。
+> 编译文件，编译后生成的静态文件会放置在 `_book` 目录。
 
 
 ```
@@ -71,7 +70,7 @@ rm -rf _book_cache
 cp -r _book _book_cache
 ```
 
-》将编译的文件从 `_book` 复制到 `_book_cache`，最终网站运行时是读取 `_book_cache` 目录下的文件。
+> 将编译的文件从 `_book` 复制到 `_book_cache`，最终网站运行时是读取 `_book_cache` 目录下的文件。
 
 ### 5、运行
 
@@ -89,3 +88,7 @@ Serving book on http://localhost:4000
 在浏览器里访问 <http://localhost:4000> 就能看到文档了，就可以 `乐开怀` 咯。
 
 ![](http://cdn.zitiao.org/deploy/3h9zg.jpg)
+
+## 三、注意事项
+
+同一台服务器部署多个项目时，只需要安装一次 `安装依赖环境`。
