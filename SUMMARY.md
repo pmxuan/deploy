@@ -1,2 +1,5 @@
 - [关于](README.md)
-- [部署](deploy.md)
+- [项目搭建](create.md)
+- [运行部署](run.md)
+- [安装插件](plugins.md)
+- [进阶功能](advanced.md)
