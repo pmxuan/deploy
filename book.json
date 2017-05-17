@@ -1,7 +1,7 @@
 {
     "root": "./",
     "title": "通过 GitBook 开源框架私有化部署 Wiki 文档",
-    "head_title": "_通过 GitBook 开源框架私有化部署 Wiki 文档_字条网",
+    "head_title": "_私有化部署 Wiki 文档_字条网",
     "head_description": "字条网示例文档",
     "head_keywords": "字条,字条网,示例文档",
     "logo": "./images/logo.png",
