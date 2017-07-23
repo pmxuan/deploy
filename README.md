@@ -49,6 +49,10 @@
 
 ## 四、交流学习
 
+欢迎加群详聊
+
+![](http://cdn.zitiao.org/deploy/weixinqun.jpeg)
+
 添加 `四勾 4J` 个人微信 `vincent4j`。
 
 via <http://4jplus.com>
