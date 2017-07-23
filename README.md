@@ -53,6 +53,8 @@
 
 ![](http://cdn.zitiao.org/deploy/weixinqun.jpeg)
 
+如果扫码加群不成功，请添加四勾的个人微信，再由四勾邀请入群，加好友时请填写验证信息「字条网加群」
+
 添加 `四勾 4J` 个人微信 `vincent4j`。
 
 via <http://4jplus.com>
